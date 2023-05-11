@@ -1,2 +1,2 @@
 # consoleRoguelike
-Консольный рогалик на c++ необходим ncursesw
+Консольный рогалик на c++ (необходим ncursesw)
